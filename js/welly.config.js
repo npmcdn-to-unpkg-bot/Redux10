@@ -75,7 +75,7 @@ full script
 {
 	n:'React-Dom',
 	u:[
-		'https://npmcdn.com/react-dom@15.3.0/dist/react-dom.js',
+		'https://unpkg.com/react-dom@15.3.0/dist/react-dom.js',
 		'https://cdnjs.cloudflare.com/ajax/libs/react/15.3.0/react-dom.js',
 		'cdn_local/js/react-dom-15.3.0.js'
 		],
@@ -98,7 +98,7 @@ var _WellyPayload = [
 	{
 		n:'React',
 		u:[
-			'https://npmcdn.com/react@15.3.0/dist/react.js',
+			'https://unpkg.com/react@15.3.0/dist/react.js',
 			'https://cdnjs.cloudflare.com/ajax/libs/react/15.3.0/react.js',
 			'cdn_local/js/react-15.3.0.js',
 		],
@@ -107,7 +107,7 @@ var _WellyPayload = [
 	{
 		n:'React-Dom',
 		u:[
-			'https://npmcdn.com/react-dom@15.3.0/dist/react-dom.js',
+			'https://unpkg.com/react-dom@15.3.0/dist/react-dom.js',
 			'https://cdnjs.cloudflare.com/ajax/libs/react/15.3.0/react-dom.js',
 			'cdn_local/js/react-dom-15.3.0.js'
 			],
